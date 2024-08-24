@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": "ed71",
+      "title": "Today",
+      "summery": "no",
+      "content": "Hii",
+      "author": "Shrey Singhal"
+    },
+    {
+      "id": "e9d0",
+      "title": "Title 1",
+      "summery": "Summery 1",
+      "content": "Content 1",
+      "author": "Author 1"
+    },
+    {
+      "id": "3f18",
+      "title": "Title 2",
+      "summery": "Summery 2",
+      "content": "Content 2",
+      "author": "Author 2"
+    }
+  ]
+}
